@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Database
+*.sqlite
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
